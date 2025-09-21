@@ -1,0 +1,8 @@
+seo:
+  title: "Banking API"
+  description: "Production API reference"
+
+logo:
+  image: ./images/logo-acme.svg
+  altText: "Display Logo"
+
